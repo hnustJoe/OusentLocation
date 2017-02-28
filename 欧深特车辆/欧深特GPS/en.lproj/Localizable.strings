@@ -1,0 +1,173 @@
+/* 
+  Localizable.strings
+  欧深特GPS
+
+  Created by joe on 16/9/13.
+  Copyright © 2016年 OuShenTe. All rights reserved.
+*/
+
+//#####登录######
+"LoginViewController_userName" = "userName";
+"LoginViewController_password" = "password";
+"LoginViewController_login" = "login";
+"LoginViewController_server option" = "server option";
+"LoginViewController_register" = "register";
+"LoginViewController_forgetPassword" = "forgetPassword";
+
+
+//#####注册######
+"RegisterViewController_testCode" = "testCode";
+
+//#####忘记密码######
+"ForgetPasswordViewController_email/username" = "email/username";
+"ForgetPasswordViewController_getPassword" = "getPassword";
+
+
+
+
+//#####车辆列表######
+"CarlistViewController_CarList" = "CarList";
+"CarlistViewController_all" = "all";
+"CarlistViewController_online" = "online";
+"CarlistViewController_outLine" = "outLine";
+"CarlistViewController_sure to switch to car of" = "sure to switch to car of";
+
+
+
+
+//#####首页######
+"HomeViewController_CurrentLocation" = "CurrentLocation";
+"HomeViewController_Setting" = "Setting";
+"HomeViewController_CarList" = "CarList";
+
+
+
+
+//#####设置######
+"SettingViewController_Setting" = "Setting";
+"SettingViewController_BaseInfo" = "BaseInfo";
+"SettingViewController_BaseInfo" = "BaseInfo";
+"SettingViewController_AlertNoti" = "AlertNoti";
+"SettingViewController_VersionInfo" = "VersionInfo";
+"SettingViewController_Add device" = "Add device";
+"SettingViewController_Logout" = "Logout";
+"SettingViewController_sure to logout?" = "sure to logout?";
+"SettingViewController_cancel" = "cancel";
+"SettingViewController_logout" = "logout";
+"SettingViewController_device management" = "device management";
+"SettingViewController_help" = "help";
+
+
+"BaseInfoViewController_BaseInfo" = "BaseInfo";
+"BaseInfoViewController_nickName" = "nickName";
+"BaseInfoViewController_CarNumber" = "CarNumber";
+"BaseInfoViewController_CarFrameNumber" = "CarFrameNumber";
+"BaseInfoViewController_EngineNumber" = "EngineNumber";
+"BaseInfoViewController_insuranceDate" = "insuranceDate";
+"BaseInfoViewController_AnnualDate" = "AnnualDate";
+
+"ChangePasswordViewController_ChangePassword" = "ChangePassword";
+
+"VersionInfoViewController_VersionInfo" = "VersionInfo";
+
+"HelpViewController_device information" = "device information";
+"HelpViewController_APN list" = "APN list";
+
+
+"AlertSwitchViewController_Parking" = "Parking alarm";
+"AlertSwitchViewController_GpsOffline" = "Terminal offline";
+"AlertSwitchViewController_OffsetRoute" = "Route offset";
+"AlertSwitchViewController_CrossBorder" = "Out of border alarm";
+"AlertSwitchViewController_Gather" = "Gather alarm";
+"AlertSwitchViewController_0" = "Emergency";
+"AlertSwitchViewController_1" = "Speeding alarm";
+"AlertSwitchViewController_2" = "Tired driving";
+"AlertSwitchViewController_3" = "Prealarm";
+"AlertSwitchViewController_4" = "GNSS failure";
+"AlertSwitchViewController_5" = "GNSS antenna missed";
+"AlertSwitchViewController_6" = "GNSS antenna short circuit";
+"AlertSwitchViewController_7" = "Terminal power under voltage";
+"AlertSwitchViewController_8" = "Terminal main power down";
+"AlertSwitchViewController_9" = "Failure of terminal LCD or display";
+"AlertSwitchViewController_10" = "TTS module fault";
+"AlertSwitchViewController_11" = "Camera failure";
+"AlertSwitchViewController_12" = "Oil box failure";
+"AlertSwitchViewController_18" = "Day cumulative driving timeout";
+"AlertSwitchViewController_19" = "Overtime parking";
+"AlertSwitchViewController_20" = "Import and export area";
+"AlertSwitchViewController_21" ="Import and export line";
+"AlertSwitchViewController_22" ="Road travel time is short or long";
+"AlertSwitchViewController_23" ="Route deviation alarm";
+"AlertSwitchViewController_24" ="Vehicle VSS fault";
+"AlertSwitchViewController_25" ="Vehicle oil anomaly";
+"AlertSwitchViewController_26" ="Vehicle stolen";
+"AlertSwitchViewController_27" ="Illegal ignition of vehicles";
+"AlertSwitchViewController_28" ="Illegal displacement of vehicle";
+"AlertSwitchViewController_29" ="Rollover collision alarm";
+"AlertSwitchViewController_InArea" = "Enter zone alarm";
+"AlertSwitchViewController_Parking" = "Parking alarm";
+"AlertSwitchViewController_Acc" = "Acc alarm";
+
+
+
+
+
+
+
+
+
+
+//#####历史轨迹######
+"HistoryTrackViewController_HistoryTrack" = "HistoryTrack";
+"HistoryTrackViewController_Pause" = "Pause";
+"HistoryTrackViewController_Start" = "Start";
+"HistoryTrackView_start time" = "start time:";
+"HistoryTrackView_end time" = "end time:";
+"HistoryTrackView_startTime" = "startTime";
+"HistoryTrackView_endTime" = "endTime";
+"HistoryTrackView_check" = "check";
+"HistoryTrackView_startTime can't be empty" = "startTime can't be empty";
+"HistoryTrackView_endTime can't be empty" = "endTime can't be empty";
+"HistoryTrackView_startTime is bigger than endTime" = "startTime is bigger than endTime";
+"HistoryTrackViewController_animationTime" = "animationTime";
+
+
+
+
+//#####设防控制######
+"ProtectSettingViewController_ProtectSetting" = "ProtectSetting";
+
+
+
+//#####一键检测######
+"OneKeyTestingViewController_OneKeyTesting" = "OneKeyTesting";
+
+
+
+//#####报警中心######
+"AlertCenterViewController_AlertCenter" = "AlertCenter";
+
+
+
+//#####车况养护######
+"CarCareViewController_CarCare" = "CarCare";
+
+
+
+
+//####指令设置######
+"InstructionViewController_Instruction" = "Instruction";
+
+
+
+"Cancel" = "Cancel";
+"Confirm" = "Confirm";
+"loading" = "loading";
+"Retry" = "retry";
+"back" = "back";
+
+
+
+
+
+

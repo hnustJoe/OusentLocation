@@ -1,0 +1,7 @@
+platform :ios, '7.0' #手机的系统
+target '欧深特GPS' do
+pod 'AMap2DMap'  #3D地图SDK
+pod 'AMapSearch' #搜索服务SDK
+pod 'AFNetworking'
+end
+

@@ -1,0 +1,230 @@
+/* 
+  Localizable.strings
+  欧深特GPS
+
+  Created by joe on 16/9/13.
+  Copyright © 2016年 OuShenTe. All rights reserved.
+*/
+
+
+//#####登录######
+"LoginViewController_userName" = "用户名";
+"LoginViewController_password" = "密码";
+"LoginViewController_login" = "登录";
+"LoginViewController_server option" = "服务器选项";
+"LoginViewController_register" = "注册";
+"LoginViewController_forgetPassword" = "忘记密码";
+
+
+
+//#####注册######
+"RegisterViewController_username" = "用户名";
+"RegisterViewController_email" = "邮箱";
+"RegisterViewController_testCode" = "验证码";
+"RegisterViewController_phone" = "电话号码";
+"RegisterViewController_password" = "密码";
+"RegisterViewController_secondPassword" = "确认密码";
+
+//#####忘记密码######
+"ForgetPasswordViewController_email/username" = "邮箱/用户名";
+"ForgetPasswordViewController_getPassword" = "找回密码";
+
+
+
+//#####车辆列表######
+"CarlistViewController_CarList" = "车辆列表";
+"CarlistViewController_all" = "全部";
+"CarlistViewController_online" = "在线";
+"CarlistViewController_outLine" = "离线";
+"CarlistViewController_sure to switch to car of" = "确认切换到车辆";
+
+
+//#####首页######
+"HomeViewController_CurrentLocation" = "当前位置";
+"HomeViewController_Setting" = "设置";
+"HomeViewController_CarList" = "车辆列表";
+
+
+
+
+//#####设置######
+"SettingViewController_Setting" = "设置";
+"SettingViewController_BaseInfo" = "基本信息";
+"SettingViewController_ChangePassword" = "修改密码";
+"SettingViewController_AlertNoti" = "报警通知";
+"SettingViewController_VersionInfo" = "版本信息";
+"SettingViewController_Add device" = "添加设备";
+"SettingViewController_Logout" = "退出登录";
+"SettingViewController_sure to logout?" = "确认退出当前账号吗？";
+"SettingViewController_cancel" = "取消";
+"SettingViewController_logout" = "确认退出";
+"SettingViewController_device management" = "设备管理";
+"SettingViewController_help" = "帮助";
+"SettingViewController_APNList" = "APN列表";
+"SettingViewController_APPVersion" = "APP版本";
+
+
+"BaseInfoViewController_BaseInfo" = "基本信息";
+"BaseInfoViewController_nickName" = "昵称";
+"BaseInfoViewController_CarNumber" = "车牌号";
+"BaseInfoViewController_CarFrameNumber" = "车架号";
+"BaseInfoViewController_EngineNumber" = "发动机";
+"BaseInfoViewController_insuranceDate" = "保险到期";
+"BaseInfoViewController_AnnualDate" = "年审过期";
+
+
+"ChangePasswordViewController_ChangePassword" = "修改密码";
+"ModifyPasswordViewController_old password" = "旧密码:";
+"ModifyPasswordViewController_new password" = "新密码:";
+"ModifyPasswordViewController_ensure password" = "确认密码:";
+"ModifyPasswordViewController_placeholder" = "6-16个字符，区分大小写";
+"ModifyPasswordViewController two passwords are different" = "两次密码不相同";
+
+"VersionInfoViewController_VersionInfo" = "版本信息";
+
+"HelpViewController_device information" = "设备信息";
+"HelpViewController_APN list" = "APN列表";
+
+
+"DeviceManagerViewController_add device" = "添加设备";
+"DeviceManagerViewController_unbind device" = "解绑设备";
+"SettingViewController_sure to unbind current device?" = "确认解绑当前设备吗？";
+"SettingViewController_unbind" = "确认解绑";
+
+"AlertSwitchViewController_Parking" = "停车报警";
+"AlertSwitchViewController_GpsOffline" = "终端离线";
+"AlertSwitchViewController_OffsetRoute" = "班线偏移";
+"AlertSwitchViewController_CrossBorder" = "离开区域报警";
+"AlertSwitchViewController_Gather" = "聚集报警";
+"AlertSwitchViewController_0" = "紧急报警";
+"AlertSwitchViewController_1" = "超速报警";
+"AlertSwitchViewController_2" = "疲劳驾驶";
+"AlertSwitchViewController_3" = "预警";
+"AlertSwitchViewController_4" = "GNSS模块发生故障";
+"AlertSwitchViewController_5" = "GNSS天线未接";
+"AlertSwitchViewController_6" = "GNSS天线短路";
+"AlertSwitchViewController_7" = "终端主电源欠压";
+"AlertSwitchViewController_8" = "终端主电源掉电";
+"AlertSwitchViewController_9" = "终端LCD或显示器故障";
+"AlertSwitchViewController_10" = "TTS模块故障";
+"AlertSwitchViewController_11" = "摄像头故障";
+"AlertSwitchViewController_12" = "测油盒故障";
+"AlertSwitchViewController_18" = "当天累计驾驶超时";
+"AlertSwitchViewController_19" = "超时停车";
+"AlertSwitchViewController_20" = "进出区域";
+"AlertSwitchViewController_21" ="进出路线";
+"AlertSwitchViewController_22" ="路段行驶时间不足/过长";
+"AlertSwitchViewController_23" ="路线偏离报警";
+"AlertSwitchViewController_24" ="车辆VSS故障";
+"AlertSwitchViewController_25" ="车辆油量异常";
+"AlertSwitchViewController_26" ="车辆被盗";
+"AlertSwitchViewController_27" ="车辆非法点火";
+"AlertSwitchViewController_28" ="车辆非法位移";
+"AlertSwitchViewController_29" ="碰撞侧翻报警";
+"AlertSwitchViewController_InArea" = "进入区域报警";
+"AlertSwitchViewController_Parking" = "停车报警";
+"AlertSwitchViewController_Acc" = "Acc报警";
+
+
+
+
+
+
+//#####历史轨迹######
+"HistoryTrackViewController_HistoryTrack" = "历史轨迹";
+"HistoryTrackViewController_Pause" = "暂停";
+"HistoryTrackViewController_Start" = "开始";
+"HistoryTrackView_start time" = "开始时间:";
+"HistoryTrackView_end time" = "结束时间:";
+"HistoryTrackView_startTime" = "开始时间";
+"HistoryTrackView_endTime" = "结束时间";
+"HistoryTrackView_check" = "查询";
+"HistoryTrackView_startTime can't be empty" = "开始时间不能为空";
+"HistoryTrackView_endTime can't be empty" = "结束时间不能为空";
+"HistoryTrackView_startTime is bigger than endTime" = "开始时间大于结束时间";
+"HistoryTrackViewController_animationTime" = "动画时间";
+
+
+//#####设防控制######
+"ProtectSettingViewController_ProtectSetting" = "设防控制";
+
+
+
+//#####一键检测######
+"OneKeyTestingViewController_OneKeyTesting" = "一键检测";
+
+
+
+//#####报警中心######
+"AlertCenterViewController_AlertCenter" = "报警中心";
+
+
+
+//#####车况养护######
+"CarCareViewController_CarCare" = "车况养护";
+
+
+
+//####指令设置######
+"InstructionViewController_Instruction" = "指令设置";
+"InstructionViewController_Speed limit setting" = "限速设置";
+"InstructionViewController_Data reporting time" = "数据上报时间";
+
+
+"Cancel" = "取消";
+"Confirm" = "确认";
+"loading" = "正在加载...";
+"no data" = "没有数据";
+"Retry" = "请重试";
+"back" = "返回";
+
+"input the ID which on the box" = "输入包装盒上的ID号码";
+"input the SN which on the box" = "输入包装盒的SN号码";
+
+"work mode" = "工作模式";
+"nomal mode" = "正常模式";
+"track mode" = "追踪模式";
+"power saving mode" = "省电模式";
+"Tracking time interval" = "追踪上报时间间隔";
+
+"Electronic fence alarm"  = "电子围栏报警";
+"Low voltage alarm" = "低压报警";
+"Fall alarm" = "摔倒报警";
+"circle" = "圆";
+"rectangle" = "矩形";
+"start time" = "开始时间";
+"end time" = "结束时间";
+"title" = "标题";
+"time" = "时间";
+"type" = "类型";
+"range" = "范围";
+"start time" = "开始时间";
+"end time" = "结束时间";
+"location" = "位置";
+"unbind" = "解绑";
+"select car" = "选择车辆";
+"app version" = "app版本";
+"modify protect setting" = "修改设防控制";
+"add protect" = "添加设防控制";
+"ensure" = "确定";
+"cancel" = "取消";
+"motion state data reporting time" = "运动状态数据上报时间";
+"static state data reporting time" = "静止状态数据上报时间";
+"safe range" = "安全范围";
+"save"  = "保存";
+
+"The format is not correct" = "格式不正确";
+"swap" = "扫一扫";
+"add device" = "添加设备";
+"put the two-dimensional code in the box" = "将二维码置于框内，系统将自动识别";
+"swap QRcode" = "扫描二维码";
+"pick address" = "区域设定";
+"login" = "登录";
+"wrong testcode" = "验证码错误";
+"password unpaird" = "密码不匹配";
+
+"device name" = "设备名称";
+"battery" = "电量";
+"alert info" = "报警信息";
+"recive time" = "接收时间";
+"location time" = "定位时间";
